@@ -1,0 +1,3 @@
+# Ajouter des types ici pour les blacklister ==>  Allemagne,Autres,Autres actions françaises,Belgique,CAC 40,Devises,Energies,États-Unis,Indices,Indices thématiques,Matières premières,Métaux précieux,Pays-Bas,Royaume-Uni,Taux d'intérêts
+
+Devises,Indices thématiques,Taux d'intérêts
